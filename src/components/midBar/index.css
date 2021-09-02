@@ -1,0 +1,13 @@
+.container-midbar {
+    background-color: #FFFFFF;
+    color: Black;
+    display: flex;
+    height: 60px;
+    justify-content: center;
+}
+
+.text-midbar {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+}
